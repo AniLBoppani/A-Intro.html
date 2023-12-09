@@ -1,4 +1,4 @@
-# A-Intro.html
+# A-Intro and simple Resume.Html
 
 <html>
   <head>
@@ -14,7 +14,7 @@
   </body>
 </html>
 
-# A Simple Resume Using HTML
+# Resume
 
 <html>
   <body>
